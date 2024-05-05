@@ -1,0 +1,14 @@
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Employee Events\bin\Debug\net8.0\Employee Events.exe
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Employee Events\bin\Debug\net8.0\Employee Events.deps.json
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Employee Events\bin\Debug\net8.0\Employee Events.runtimeconfig.json
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Employee Events\bin\Debug\net8.0\Employee Events.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Employee Events\bin\Debug\net8.0\Employee Events.pdb
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Employee Events\obj\Debug\net8.0\Employee Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Employee Events\obj\Debug\net8.0\Employee Events.AssemblyInfoInputs.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Employee Events\obj\Debug\net8.0\Employee Events.AssemblyInfo.cs
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Employee Events\obj\Debug\net8.0\Employee Events.csproj.CoreCompileInputs.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Employee Events\obj\Debug\net8.0\Employee Events.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Employee Events\obj\Debug\net8.0\refint\Employee Events.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Employee Events\obj\Debug\net8.0\Employee Events.pdb
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Employee Events\obj\Debug\net8.0\Employee Events.genruntimeconfig.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Employee Events\obj\Debug\net8.0\ref\Employee Events.dll

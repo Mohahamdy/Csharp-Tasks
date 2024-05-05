@@ -1,0 +1,14 @@
+D:\C#\Mohamed Hamdy\Day 2\Day 2\First Task\obj\Debug\net8.0\First Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Mohamed Hamdy\Day 2\Day 2\First Task\obj\Debug\net8.0\First Task.AssemblyInfoInputs.cache
+D:\C#\Mohamed Hamdy\Day 2\Day 2\First Task\obj\Debug\net8.0\First Task.AssemblyInfo.cs
+D:\C#\Mohamed Hamdy\Day 2\Day 2\First Task\obj\Debug\net8.0\First Task.csproj.CoreCompileInputs.cache
+D:\C#\Mohamed Hamdy\Day 2\Day 2\First Task\bin\Debug\net8.0\First Task.exe
+D:\C#\Mohamed Hamdy\Day 2\Day 2\First Task\bin\Debug\net8.0\First Task.deps.json
+D:\C#\Mohamed Hamdy\Day 2\Day 2\First Task\bin\Debug\net8.0\First Task.runtimeconfig.json
+D:\C#\Mohamed Hamdy\Day 2\Day 2\First Task\bin\Debug\net8.0\First Task.dll
+D:\C#\Mohamed Hamdy\Day 2\Day 2\First Task\bin\Debug\net8.0\First Task.pdb
+D:\C#\Mohamed Hamdy\Day 2\Day 2\First Task\obj\Debug\net8.0\First Task.dll
+D:\C#\Mohamed Hamdy\Day 2\Day 2\First Task\obj\Debug\net8.0\refint\First Task.dll
+D:\C#\Mohamed Hamdy\Day 2\Day 2\First Task\obj\Debug\net8.0\First Task.pdb
+D:\C#\Mohamed Hamdy\Day 2\Day 2\First Task\obj\Debug\net8.0\First Task.genruntimeconfig.cache
+D:\C#\Mohamed Hamdy\Day 2\Day 2\First Task\obj\Debug\net8.0\ref\First Task.dll

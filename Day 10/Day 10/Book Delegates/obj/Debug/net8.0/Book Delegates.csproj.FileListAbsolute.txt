@@ -1,0 +1,14 @@
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Book Delegates\bin\Debug\net8.0\Book Delegates.exe
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Book Delegates\bin\Debug\net8.0\Book Delegates.deps.json
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Book Delegates\bin\Debug\net8.0\Book Delegates.runtimeconfig.json
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Book Delegates\bin\Debug\net8.0\Book Delegates.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Book Delegates\bin\Debug\net8.0\Book Delegates.pdb
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Book Delegates\obj\Debug\net8.0\Book Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Book Delegates\obj\Debug\net8.0\Book Delegates.AssemblyInfoInputs.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Book Delegates\obj\Debug\net8.0\Book Delegates.AssemblyInfo.cs
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Book Delegates\obj\Debug\net8.0\Book Delegates.csproj.CoreCompileInputs.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Book Delegates\obj\Debug\net8.0\Book Delegates.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Book Delegates\obj\Debug\net8.0\refint\Book Delegates.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Book Delegates\obj\Debug\net8.0\Book Delegates.pdb
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Book Delegates\obj\Debug\net8.0\Book Delegates.genruntimeconfig.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 10\Day 10\Book Delegates\obj\Debug\net8.0\ref\Book Delegates.dll

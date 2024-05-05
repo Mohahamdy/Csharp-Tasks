@@ -1,0 +1,14 @@
+D:\C#\Mohamed Hamdy\Day 2\Day 2\Third Task\bin\Debug\net8.0\Third Task.exe
+D:\C#\Mohamed Hamdy\Day 2\Day 2\Third Task\bin\Debug\net8.0\Third Task.deps.json
+D:\C#\Mohamed Hamdy\Day 2\Day 2\Third Task\bin\Debug\net8.0\Third Task.runtimeconfig.json
+D:\C#\Mohamed Hamdy\Day 2\Day 2\Third Task\bin\Debug\net8.0\Third Task.dll
+D:\C#\Mohamed Hamdy\Day 2\Day 2\Third Task\bin\Debug\net8.0\Third Task.pdb
+D:\C#\Mohamed Hamdy\Day 2\Day 2\Third Task\obj\Debug\net8.0\Third Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Mohamed Hamdy\Day 2\Day 2\Third Task\obj\Debug\net8.0\Third Task.AssemblyInfoInputs.cache
+D:\C#\Mohamed Hamdy\Day 2\Day 2\Third Task\obj\Debug\net8.0\Third Task.AssemblyInfo.cs
+D:\C#\Mohamed Hamdy\Day 2\Day 2\Third Task\obj\Debug\net8.0\Third Task.csproj.CoreCompileInputs.cache
+D:\C#\Mohamed Hamdy\Day 2\Day 2\Third Task\obj\Debug\net8.0\Third Task.dll
+D:\C#\Mohamed Hamdy\Day 2\Day 2\Third Task\obj\Debug\net8.0\refint\Third Task.dll
+D:\C#\Mohamed Hamdy\Day 2\Day 2\Third Task\obj\Debug\net8.0\Third Task.pdb
+D:\C#\Mohamed Hamdy\Day 2\Day 2\Third Task\obj\Debug\net8.0\Third Task.genruntimeconfig.cache
+D:\C#\Mohamed Hamdy\Day 2\Day 2\Third Task\obj\Debug\net8.0\ref\Third Task.dll

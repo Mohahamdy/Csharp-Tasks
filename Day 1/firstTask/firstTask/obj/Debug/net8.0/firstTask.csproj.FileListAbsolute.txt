@@ -1,0 +1,14 @@
+D:\C#\Mohamed Hamdy\Day 1\firstTask\firstTask\bin\Debug\net8.0\firstTask.exe
+D:\C#\Mohamed Hamdy\Day 1\firstTask\firstTask\bin\Debug\net8.0\firstTask.deps.json
+D:\C#\Mohamed Hamdy\Day 1\firstTask\firstTask\bin\Debug\net8.0\firstTask.runtimeconfig.json
+D:\C#\Mohamed Hamdy\Day 1\firstTask\firstTask\bin\Debug\net8.0\firstTask.dll
+D:\C#\Mohamed Hamdy\Day 1\firstTask\firstTask\bin\Debug\net8.0\firstTask.pdb
+D:\C#\Mohamed Hamdy\Day 1\firstTask\firstTask\obj\Debug\net8.0\firstTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Mohamed Hamdy\Day 1\firstTask\firstTask\obj\Debug\net8.0\firstTask.AssemblyInfoInputs.cache
+D:\C#\Mohamed Hamdy\Day 1\firstTask\firstTask\obj\Debug\net8.0\firstTask.AssemblyInfo.cs
+D:\C#\Mohamed Hamdy\Day 1\firstTask\firstTask\obj\Debug\net8.0\firstTask.csproj.CoreCompileInputs.cache
+D:\C#\Mohamed Hamdy\Day 1\firstTask\firstTask\obj\Debug\net8.0\firstTask.dll
+D:\C#\Mohamed Hamdy\Day 1\firstTask\firstTask\obj\Debug\net8.0\refint\firstTask.dll
+D:\C#\Mohamed Hamdy\Day 1\firstTask\firstTask\obj\Debug\net8.0\firstTask.pdb
+D:\C#\Mohamed Hamdy\Day 1\firstTask\firstTask\obj\Debug\net8.0\firstTask.genruntimeconfig.cache
+D:\C#\Mohamed Hamdy\Day 1\firstTask\firstTask\obj\Debug\net8.0\ref\firstTask.dll

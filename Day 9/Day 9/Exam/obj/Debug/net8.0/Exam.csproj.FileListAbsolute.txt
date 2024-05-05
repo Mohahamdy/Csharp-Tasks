@@ -1,0 +1,28 @@
+D:\Technical Materials\C#\Mohamed Hamdy\Day9\Day 9\Exam\bin\Debug\net8.0\Exam.exe
+D:\Technical Materials\C#\Mohamed Hamdy\Day9\Day 9\Exam\bin\Debug\net8.0\Exam.deps.json
+D:\Technical Materials\C#\Mohamed Hamdy\Day9\Day 9\Exam\bin\Debug\net8.0\Exam.runtimeconfig.json
+D:\Technical Materials\C#\Mohamed Hamdy\Day9\Day 9\Exam\bin\Debug\net8.0\Exam.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day9\Day 9\Exam\bin\Debug\net8.0\Exam.pdb
+D:\Technical Materials\C#\Mohamed Hamdy\Day9\Day 9\Exam\obj\Debug\net8.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Materials\C#\Mohamed Hamdy\Day9\Day 9\Exam\obj\Debug\net8.0\Exam.AssemblyInfoInputs.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day9\Day 9\Exam\obj\Debug\net8.0\Exam.AssemblyInfo.cs
+D:\Technical Materials\C#\Mohamed Hamdy\Day9\Day 9\Exam\obj\Debug\net8.0\Exam.csproj.CoreCompileInputs.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day9\Day 9\Exam\obj\Debug\net8.0\Exam.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day9\Day 9\Exam\obj\Debug\net8.0\refint\Exam.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day9\Day 9\Exam\obj\Debug\net8.0\Exam.pdb
+D:\Technical Materials\C#\Mohamed Hamdy\Day9\Day 9\Exam\obj\Debug\net8.0\Exam.genruntimeconfig.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day9\Day 9\Exam\obj\Debug\net8.0\ref\Exam.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 9\Day 9\Exam\bin\Debug\net8.0\Exam.exe
+D:\Technical Materials\C#\Mohamed Hamdy\Day 9\Day 9\Exam\bin\Debug\net8.0\Exam.deps.json
+D:\Technical Materials\C#\Mohamed Hamdy\Day 9\Day 9\Exam\bin\Debug\net8.0\Exam.runtimeconfig.json
+D:\Technical Materials\C#\Mohamed Hamdy\Day 9\Day 9\Exam\bin\Debug\net8.0\Exam.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 9\Day 9\Exam\bin\Debug\net8.0\Exam.pdb
+D:\Technical Materials\C#\Mohamed Hamdy\Day 9\Day 9\Exam\obj\Debug\net8.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Materials\C#\Mohamed Hamdy\Day 9\Day 9\Exam\obj\Debug\net8.0\Exam.AssemblyInfoInputs.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 9\Day 9\Exam\obj\Debug\net8.0\Exam.AssemblyInfo.cs
+D:\Technical Materials\C#\Mohamed Hamdy\Day 9\Day 9\Exam\obj\Debug\net8.0\Exam.csproj.CoreCompileInputs.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 9\Day 9\Exam\obj\Debug\net8.0\Exam.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 9\Day 9\Exam\obj\Debug\net8.0\refint\Exam.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 9\Day 9\Exam\obj\Debug\net8.0\Exam.pdb
+D:\Technical Materials\C#\Mohamed Hamdy\Day 9\Day 9\Exam\obj\Debug\net8.0\Exam.genruntimeconfig.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 9\Day 9\Exam\obj\Debug\net8.0\ref\Exam.dll

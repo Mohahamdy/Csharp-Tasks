@@ -1,0 +1,14 @@
+D:\C#\Mohamed Hamdy\Day 3\Day 3\Second Task\bin\Debug\net8.0\Second Task.exe
+D:\C#\Mohamed Hamdy\Day 3\Day 3\Second Task\bin\Debug\net8.0\Second Task.deps.json
+D:\C#\Mohamed Hamdy\Day 3\Day 3\Second Task\bin\Debug\net8.0\Second Task.runtimeconfig.json
+D:\C#\Mohamed Hamdy\Day 3\Day 3\Second Task\bin\Debug\net8.0\Second Task.dll
+D:\C#\Mohamed Hamdy\Day 3\Day 3\Second Task\bin\Debug\net8.0\Second Task.pdb
+D:\C#\Mohamed Hamdy\Day 3\Day 3\Second Task\obj\Debug\net8.0\Second Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Mohamed Hamdy\Day 3\Day 3\Second Task\obj\Debug\net8.0\Second Task.AssemblyInfoInputs.cache
+D:\C#\Mohamed Hamdy\Day 3\Day 3\Second Task\obj\Debug\net8.0\Second Task.AssemblyInfo.cs
+D:\C#\Mohamed Hamdy\Day 3\Day 3\Second Task\obj\Debug\net8.0\Second Task.csproj.CoreCompileInputs.cache
+D:\C#\Mohamed Hamdy\Day 3\Day 3\Second Task\obj\Debug\net8.0\Second Task.dll
+D:\C#\Mohamed Hamdy\Day 3\Day 3\Second Task\obj\Debug\net8.0\refint\Second Task.dll
+D:\C#\Mohamed Hamdy\Day 3\Day 3\Second Task\obj\Debug\net8.0\Second Task.pdb
+D:\C#\Mohamed Hamdy\Day 3\Day 3\Second Task\obj\Debug\net8.0\Second Task.genruntimeconfig.cache
+D:\C#\Mohamed Hamdy\Day 3\Day 3\Second Task\obj\Debug\net8.0\ref\Second Task.dll

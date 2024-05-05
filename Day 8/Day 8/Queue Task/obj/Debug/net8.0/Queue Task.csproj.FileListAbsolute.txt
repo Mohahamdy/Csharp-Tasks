@@ -1,0 +1,14 @@
+D:\Technical Materials\C#\Mohamed Hamdy\Day 8\Day 8\Queue Task\bin\Debug\net8.0\Queue Task.exe
+D:\Technical Materials\C#\Mohamed Hamdy\Day 8\Day 8\Queue Task\bin\Debug\net8.0\Queue Task.deps.json
+D:\Technical Materials\C#\Mohamed Hamdy\Day 8\Day 8\Queue Task\bin\Debug\net8.0\Queue Task.runtimeconfig.json
+D:\Technical Materials\C#\Mohamed Hamdy\Day 8\Day 8\Queue Task\bin\Debug\net8.0\Queue Task.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 8\Day 8\Queue Task\bin\Debug\net8.0\Queue Task.pdb
+D:\Technical Materials\C#\Mohamed Hamdy\Day 8\Day 8\Queue Task\obj\Debug\net8.0\Queue Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Materials\C#\Mohamed Hamdy\Day 8\Day 8\Queue Task\obj\Debug\net8.0\Queue Task.AssemblyInfoInputs.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 8\Day 8\Queue Task\obj\Debug\net8.0\Queue Task.AssemblyInfo.cs
+D:\Technical Materials\C#\Mohamed Hamdy\Day 8\Day 8\Queue Task\obj\Debug\net8.0\Queue Task.csproj.CoreCompileInputs.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 8\Day 8\Queue Task\obj\Debug\net8.0\Queue Task.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 8\Day 8\Queue Task\obj\Debug\net8.0\refint\Queue Task.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 8\Day 8\Queue Task\obj\Debug\net8.0\Queue Task.pdb
+D:\Technical Materials\C#\Mohamed Hamdy\Day 8\Day 8\Queue Task\obj\Debug\net8.0\Queue Task.genruntimeconfig.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 8\Day 8\Queue Task\obj\Debug\net8.0\ref\Queue Task.dll

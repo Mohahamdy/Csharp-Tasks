@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Employee</name>
+    </assembly>
+    <members>
+        <member name="T:TaskEmployee.HireDate">
+            <summary>
+            /This struct represents a hiring date of an employee in a form of dd/mm/yyyy
+            </summary>
+        </member>
+        <member name="T:TaskEmployee.Gender">
+            <summary>
+            Enum represents gender (male or female)
+            </summary>
+        </member>
+        <member name="T:TaskEmployee.SecurityLevel">
+            <summary>
+            Enum represents security level of your employee
+            </summary>
+        </member>
+        <member name="T:TaskEmployee.Permission">
+            <summary>
+            Eunm repersents premession of your employee depends on his security level
+            </summary>
+        </member>
+        <member name="T:TaskEmployee.Employee">
+            <summary>
+            struct Employee represent an employee of your compant with id,salary,gender,hiring date,security level and his permisiion
+            </summary>
+        </member>
+        <member name="T:TaskEmployee.operation">
+            <summary>
+            operation struct represents sorting of your employess using id and hiring date 
+            </summary>
+        </member>
+        <member name="T:TaskEmployee.loggingFile">
+            <summary>
+            class log to log errors in a file with all data
+            </summary>
+        </member>
+    </members>
+</doc>
